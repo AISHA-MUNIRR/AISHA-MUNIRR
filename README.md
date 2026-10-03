@@ -4,7 +4,7 @@
 
 I'm passionate about building intelligent systems using Machine Learning, Deep Learning, Computer Vision, NLP, and Data Engineering. I enjoy transforming ideas into practical software solutions and continuously improving my problem-solving skills through projects and algorithmic challenges.
 
-## 💻 Technical Skills
+## Technical Skills
 
 ### Languages
 
@@ -28,7 +28,7 @@ Microsoft Sentinel • KQL • Burp Suite • Metasploit • Wireshark
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### Confidence Scoring System (Computer Vision)
 
@@ -52,7 +52,7 @@ Developing automated security playbooks for alert monitoring, incident classific
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 * AI Engineering
 * LLM Applications
@@ -62,7 +62,7 @@ Developing automated security playbooks for alert monitoring, incident classific
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 LinkedIn: linkedin.com/in/aisha-munir-6b654636b
 
