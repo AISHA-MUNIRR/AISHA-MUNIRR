@@ -64,6 +64,4 @@ Developing automated security playbooks for alert monitoring, incident classific
 
 ## Connect With Me
 
-LinkedIn: linkedin.com/in/aisha-munir-6b654636b
-
 Email: [aishamunirr123@gmail.com](mailto:aishamunirr123@gmail.com)
