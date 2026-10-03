@@ -2,7 +2,7 @@
 
 🎓 BS Data Science Graduate from PUCIT, Lahore
 
-I'm passionate about building intelligent systems using Machine Learning, Deep Learning, Computer Vision, NLP, and Data Engineering. I enjoy transforming ideas into practical software solutions and continuously improving my problem-solving skills through projects and algorithmic challenges. Over the years, I have developed numerous projects spanning AI, data science, cybersecurity, and software engineering, and I am currently organizing and publishing them on GitHub to showcase my work and learning journey.
+I'm passionate about building intelligent systems using Machine Learning, Deep Learning, Computer Vision, NLP, and Data Engineering. I enjoy transforming ideas into practical software solutions and continuously improving my problem-solving skills through projects and algorithmic challenges.
 
 ## 💻 Technical Skills
 
